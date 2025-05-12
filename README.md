@@ -1,6 +1,8 @@
 # United-States-Mass-Killings-Analysis
  
 A COMPREHENSIVE ANALYSIS OF MASS KILLINGS IN THE UNITED STATES
+
+[US Mass Killing Analysis]
 Data Visualization for storytelling – Prof. Johannes Reichgelt
  
  
