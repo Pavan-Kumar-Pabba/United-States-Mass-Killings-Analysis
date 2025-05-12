@@ -1,8 +1,8 @@
 # United-States-Mass-Killings-Analysis
  
 A COMPREHENSIVE ANALYSIS OF MASS KILLINGS IN THE UNITED STATES
+[(https://public.tableau.com/app/profile/pavan.kumar.pabba5501/viz/PavanPabbaDVFinalProject/Visualization1)](url)
 
-[US Mass Killing Analysis]
 Data Visualization for storytelling – Prof. Johannes Reichgelt
  
  
